@@ -1,0 +1,8 @@
+TestRequest
+compile_commands.json
+CMakeCache.txt
+CMakeLists.txt.user
+CMakesFiles
+/CMakeFiles
+TestRequest_autogen
+.cache
